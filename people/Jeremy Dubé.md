@@ -1,16 +1,16 @@
 # Jeremy Dubé
 
-> [One-line description: how you know them / what they do]
+> Friend from CEGEP
 
 ## Info
 
 | Field | Value |
 |-------|-------|
-| **Met** | [When & where you first met] |
+| **Met** | CEGEP |
 | **Via** | [Who introduced you, or how you found them] |
 | **Location** | [City / timezone] |
 | **Contact** | [Phone, email, or handle — whatever you actually use] |
-| **Relationship** | [friend / colleague / acquaintance / mentor / collaborator / etc.] |
+| **Relationship** | friend |
 
 ## About
 
@@ -31,9 +31,8 @@
 
 | Date | Note |
 |------|------|
-| YYYY-MM-DD | [How you last talked, what came of it] |
-| YYYY-MM-DD | [First meeting or notable moment] |
+| 2026-08 | Had an appointment planned — cancelled last minute |
 
 ## Follow-up
 
-- [ ] [Something you said you'd do or send]
+- [ ] Reschedule the meetup you cancelled in August
