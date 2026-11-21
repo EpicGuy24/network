@@ -1,6 +1,6 @@
 # Kareem (from Arina)
 
-> [One line: how I know them / what they do]
+> A friend I know through Arina — uni student and seasonal window cleaning entrepreneur, ~20-21 years old
 
 ## Info
 
@@ -10,11 +10,11 @@
 | **Via** | Arina |
 | **Location** | [City / timezone] |
 | **Contact** | [Phone, email, or handle — whatever I actually use] |
-| **Relationship** | [friend / colleague / acquaintance / mentor / collaborator / etc.] |
+| **Relationship** | friend |
 
 ## About
 
-[2–3 sentences: who they are, what they're about, what makes them memorable to me]
+He's studying at university right now and runs a window cleaning business in the summers — he stopped it for the season on September 30th. He's around 20-21. What matters most to him is genuine friendship, not transactions or recruitment.
 
 ## Connections
 
@@ -22,17 +22,16 @@
 
 ## Notes
 
-- [Something interesting they told me / a shared interest / an inside reference]
-- [What they're working on]
-- [What I can offer them / what they can offer me]
+- He wants friendship above anything else — lead with that, not an agenda
+- I tried to recruit him in September — he wasn't ready, wrong time
+- He asked me to report a Google review — I did it but never told him
 
 ## Log
 
 | Date | Note |
 |------|------|
-| YYYY-MM-DD | [How we last talked, what came of it] |
-| YYYY-MM-DD | [First meeting or a notable moment] |
+| 2026-09 | Met in person — tried to recruit him, wasn't the right time |
 
 ## Follow-up
 
-- [ ] [Something I said I'd do or send]
+- [ ] Tell him I reported the Google review he asked about
