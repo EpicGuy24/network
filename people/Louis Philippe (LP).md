@@ -15,6 +15,7 @@ Goes by LP.
 
 ## Log
 
+- 2026-11-21: Called him — no answer
 - 2026-07/08: Called him — had an appointment set, he forgot about it
 - After that: Called or texted to follow up — no answer / no reply, conversation died
 
