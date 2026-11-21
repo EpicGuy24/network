@@ -30,6 +30,7 @@ He's studying at university right now and runs a window cleaning business in the
 
 | Date | Note |
 |------|------|
+| 2026-11-21 | Called him — caught him during a haircut, he'll call back in an hour or two |
 | 2026-09 | Met in person — tried to recruit him, wasn't the right time |
 
 ## Follow-up
