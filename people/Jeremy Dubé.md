@@ -31,7 +31,8 @@
 
 | Date | Note |
 |------|------|
-| 2026-08 | I had an appointment planned with him — I cancelled last minute |
+| 2026-11-21 | Called him — hit voicemail |
+| 2026-07-27 | Had an appointment planned — I cancelled last minute |
 
 ## Follow-up
 
