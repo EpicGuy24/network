@@ -1,38 +1,24 @@
-# Jeremy Dubé
-
-> A friend I met at CEGEP
-
-## Info
-
-| Field | Value |
-|-------|-------|
-| **Met** | CEGEP |
-| **Via** | [Who introduced you, or how you found them] |
-| **Location** | [City / timezone] |
-| **Contact** | [Phone, email, or handle — whatever you actually use] |
-| **Relationship** | friend |
+---
+name: Jeremy Dubé
+relationship: friend
+met: CEGEP
+via:
+location:
+contact:
+---
 
 ## About
 
-[2–3 sentences: who they are, what they're about, what makes them memorable]
-
-## Connections
-
-- [[Name [context]]] — [how they know this person]
-- [[Name [context]]] — [how they know this person]
+A friend I met at CEGEP.
 
 ## Notes
 
-- [Interesting thing they told you / shared interest / inside reference]
-- [What they're working on]
-- [What you can offer them / what they can offer you]
+- I tried to set up a meetup for July 27th — I cancelled last minute
 
 ## Log
 
-| Date | Note |
-|------|------|
-| 2026-11-21 | Called him — hit voicemail |
-| 2026-07-27 | Had an appointment planned — I cancelled last minute |
+- 2026-11-21: Called him — hit voicemail
+- 2026-07-27: Had an appointment planned — I cancelled last minute
 
 ## Follow-up
 
