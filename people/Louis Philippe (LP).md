@@ -1,7 +1,7 @@
 ---
 name: Louis Philippe (LP)
-relationship:
-met:
+relationship: friend
+met: CEGEP
 via:
 location:
 contact:
