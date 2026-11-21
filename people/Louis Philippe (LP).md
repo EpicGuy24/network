@@ -4,7 +4,7 @@ relationship: friend
 met: CEGEP
 via:
 location:
-contact:
+contact: 438-969-9948
 ---
 
 ## About
