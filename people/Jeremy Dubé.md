@@ -1,6 +1,6 @@
 # Jeremy Dubé
 
-> Friend from CEGEP
+> A friend I met at CEGEP
 
 ## Info
 
@@ -31,8 +31,8 @@
 
 | Date | Note |
 |------|------|
-| 2026-08 | Had an appointment planned — cancelled last minute |
+| 2026-08 | I had an appointment planned with him — I cancelled last minute |
 
 ## Follow-up
 
-- [ ] Reschedule the meetup you cancelled in August
+- [ ] Reschedule the meetup I cancelled in August

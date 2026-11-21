@@ -1,20 +1,20 @@
 # [Full Name]
 
-> [One-line description: how you know them / what they do]
+> [One line: how I know them / what they do]
 
 ## Info
 
 | Field | Value |
 |-------|-------|
-| **Met** | [When & where you first met] |
-| **Via** | [Who introduced you, or how you found them] |
+| **Met** | [When & where I first met them] |
+| **Via** | [Who introduced us, or how I found them] |
 | **Location** | [City / timezone] |
-| **Contact** | [Phone, email, or handle — whatever you actually use] |
+| **Contact** | [Phone, email, or handle — whatever I actually use] |
 | **Relationship** | [friend / colleague / acquaintance / mentor / collaborator / etc.] |
 
 ## About
 
-[2–3 sentences: who they are, what they're about, what makes them memorable]
+[2–3 sentences: who they are, what they're about, what makes them memorable to me]
 
 ## Connections
 
@@ -23,17 +23,17 @@
 
 ## Notes
 
-- [Interesting thing they told you / shared interest / inside reference]
+- [Something interesting they told me / a shared interest / an inside reference]
 - [What they're working on]
-- [What you can offer them / what they can offer you]
+- [What I can offer them / what they can offer me]
 
 ## Log
 
 | Date | Note |
 |------|------|
-| YYYY-MM-DD | [How you last talked, what came of it] |
-| YYYY-MM-DD | [First meeting or notable moment] |
+| YYYY-MM-DD | [How we last talked, what came of it] |
+| YYYY-MM-DD | [First meeting or a notable moment] |
 
 ## Follow-up
 
-- [ ] [Something you said you'd do or send]
+- [ ] [Something I said I'd do or send]
